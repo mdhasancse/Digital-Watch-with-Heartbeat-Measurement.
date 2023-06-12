@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/create-react-app).
-
+Online Digital Watch with Heartbeat Measurement
+The online digital watch with heartbeat measurement is an innovative project that combines the functionality of a traditional digital watch with the capability to measure the user's heartbeat. This project aims to provide a convenient and accessible way for individuals to monitor their heart rate in real-time, promoting health awareness and proactive lifestyle management.
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
